@@ -1,12 +1,11 @@
-## Hi there 👋
+# OiPer
 
-<!--
+OiPer is a small team founded by [Nazmus Sayad](https://github.com/NazmusSayad) and [al-imam](https://github.com/al-imam).
 
-**Here are some ideas to get you started:**
+We started out building an email template builder, back when the AI era was just beginning.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+While working on it, we needed a name with real meaning. We spent over a month making lists of possible names. In the end, we found *OiPer* — a word from our native language, Bengali, that means **"other side."** That was the one that stuck.
+
+As AI kept getting better, an email template builder stopped making sense. Around the same time, AI prompting was taking off, and we realized we could build a dictation app pretty easily. A quick proof of concept turned out to feel more like a production app, so we shifted our focus.
+
+Today, OiPer is a **voice-to-text desktop app**.
