@@ -1,5 +1,3 @@
-# OiPer
-
 OiPer is a small team founded by [Nazmus Sayad](https://github.com/NazmusSayad) and [al-imam](https://github.com/al-imam).
 
 We started out building an email template builder, back when the AI era was just beginning.
