@@ -6,4 +6,4 @@ While working on it, we needed a name with real meaning. We spent over a month m
 
 As AI kept getting better, an email template builder stopped making sense. Around the same time, AI prompting was taking off, and we realized we could build a dictation app pretty easily. A quick proof of concept turned out to feel more like a production app, so we shifted our focus.
 
-Today, OiPer is a **voice-to-text desktop app**.
+Today, this is that OiPer...
